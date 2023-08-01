@@ -1,0 +1,59 @@
+body{
+    background: url(picture1.jpg) no-repeat;
+	-moz-background-size: 100%;
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+    color: azure;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+	}
+    P {
+        color:azure;
+        font-family: 'Open Sans', sans-serif;
+    }
+    #leftbar {
+	top: 80px;
+	width: 15%;
+	height: 500px;
+	position: absolute;
+	}
+	
+	#rightbar {
+	width: 15%;
+	top: 80px;
+	left: 85%;
+	height: 500px;
+	position: absolute;
+	}
+    #content {
+    height: 500px;
+	width: 70%;
+	top: 80px;
+	left: 15%;
+	position: absolute;
+    }
+	#header {
+		height: 150px;
+		width: 100%;
+		position: absolute;
+	}
+	img {
+		width: 150px;
+		height: 150px;
+	}
+
+	#footer{
+		top: 500px;
+		width: 100%;
+		height: 150px;
+		position: absolute;
+
+	}
+	#table1{
+		top:581px;
+		width: 70%;
+		height: 500px;
+		left: 15%;
+		position: absolute;
+	}
